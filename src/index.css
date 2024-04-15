@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: Gilroy;
+}
+/* the color will be visible on selection on text */
+::selection{
+    color: rgb(221, 223, 90);
+}
