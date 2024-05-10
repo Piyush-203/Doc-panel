@@ -35,19 +35,21 @@ To run the application locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-    git clone [https://github.com/Piyush-203/interactive-documents-app.git](https://github.com/Piyush-203/Doc-panel.git)
+      git clone [https://github.com/Piyush-203/Doc-panel.git](https://github.com/Piyush-203/Doc-panel.git)
 
 2. **Navigate to the Project Directory**
    ```bash
-  cd Doc-panel
+      cd Doc-panel
 
 3. **Install Dependencies:**
-   ```bash - npm install
+   ```bash
+      npm install
 
 4. **Start the Development Server:**
-   ```bash - npm start
+   ```bash
+      npm start
 
-Open in Browser:
+**Open in Browser:**
 Once the development server is running, open your web browser and go to http://localhost:3000 to view the application.
 Contributing
 Contributions to this project are welcome! If you'd like to contribute, please follow these guidelines:
